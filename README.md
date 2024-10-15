@@ -7,10 +7,6 @@ This Python project automates the process of logging into [Land.id](https://land
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Running in Headless Mode](#running-in-headless-mode)
-- [Security Note: Hiding Password Input](#security-note-hiding-password-input)
-- [License](#license)
 
 ## Project Overview
 
