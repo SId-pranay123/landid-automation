@@ -22,7 +22,7 @@ This project uses the following libraries:
 - **[Playwright](https://playwright.dev/python/docs/intro)**: For browser automation and network interception.
 - **asyncio**: For asynchronous execution of tasks.
 - **json**: For saving the API response to a file.
-- **getpass** (optional): To securely hide password input (not currently included in the main flow but can be used).
+- **getpass** (optional): To securely hide password input (not currently included in the main flow but can be used) --- I haven't implemented it yet.
 
 ## Installation
 
